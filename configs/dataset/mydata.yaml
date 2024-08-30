@@ -1,0 +1,7 @@
+train: /home/zk/dataset-yolo/images/train
+val: /home/zk/dataset-yolo/images/val
+test: /home/zk/dataset-yolo/images/test
+
+nc: 3
+names: ['0', '1', '2']
+
